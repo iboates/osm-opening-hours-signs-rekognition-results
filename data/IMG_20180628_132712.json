@@ -1,0 +1,16 @@
+{
+    "TextDetections": [],
+    "TextModelVersion": "3.0",
+    "ResponseMetadata": {
+        "RequestId": "18f09fc2-f23d-4a26-a605-466a02ced844",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "content-type": "application/x-amz-json-1.1",
+            "date": "Sat, 10 Apr 2021 19:29:45 GMT",
+            "x-amzn-requestid": "18f09fc2-f23d-4a26-a605-466a02ced844",
+            "content-length": "46",
+            "connection": "keep-alive"
+        },
+        "RetryAttempts": 0
+    }
+}
