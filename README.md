@@ -1,0 +1,1 @@
+# osm-opening-hours-signs-rekognition-results
